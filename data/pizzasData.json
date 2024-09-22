@@ -1,0 +1,341 @@
+{
+  "pizzaData": [
+    {
+      "id": 1,
+      "name": "Cheese",
+      "ingredients": ["Sauce", "Cheese"],
+      "unitPrice": 2,
+      "imageUrl": "pizzas/Recipe_Cheese.webp",
+      "soldOut": false
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "ingredients": ["Sauce", "Cheese", "Pepperoni"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Pepperoni.webp",
+      "soldOut": true
+    },
+    {
+      "id": 3,
+      "name": "Sausage",
+      "ingredients": ["Sauce", "Cheese", "Sausage"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Sausage.webp",
+      "soldOut": false
+    },
+    {
+      "id": 4,
+      "name": "Mushroom",
+      "ingredients": ["Sauce", "Cheese", "Mushroom"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Mushroom.webp",
+      "soldOut": false
+    },
+    {
+      "id": 5,
+      "name": "Eggplant",
+      "ingredients": ["Sauce", "Cheese", "Eggplant"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Eggplant.webp",
+      "soldOut": false
+    },
+    {
+      "id": 6,
+      "name": "Olive",
+      "ingredients": ["Sauce", "Cheese", "Olive"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Olive.webp",
+      "soldOut": false
+    },
+    {
+      "id": 7,
+      "name": "Onion",
+      "ingredients": ["Sauce", "Cheese", "Onion"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Onion.webp",
+      "soldOut": false
+    },
+    {
+      "id": 8,
+      "name": "Bacon",
+      "ingredients": ["Sauce", "Cheese", "Bacon"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Bacon.webp",
+      "soldOut": false
+    },
+    {
+      "id": 9,
+      "name": "Pineapple",
+      "ingredients": ["Sauce", "Cheese", "Pineapple"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Pineapple.webp",
+      "soldOut": false
+    },
+    {
+      "id": 10,
+      "name": "Anchovy",
+      "ingredients": ["Sauce", "Cheese", "Anchovy"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Pineapple.webp",
+      "soldOut": false
+    },
+    {
+      "id": 11,
+      "name": "Ham",
+      "ingredients": ["Sauce", "Cheese", "Ham"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Ham.webp",
+      "soldOut": false
+    },
+    {
+      "id": 12,
+      "name": "Margherita",
+      "ingredients": ["Sauce", "Cheese", "Basil"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Basil.webp",
+      "soldOut": false
+    },
+    {
+      "id": 13,
+      "name": "Shrimp",
+      "ingredients": ["Sauce", "Cheese", "Shrimp"],
+      "unitPrice": 5,
+      "imageUrl": "pizzas/Recipe_Shrimp.webp",
+      "soldOut": false
+    },
+    {
+      "id": 14,
+      "name": "Corn",
+      "ingredients": ["Sauce", "Cheese", "Corn"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Corn.webp",
+      "soldOut": false
+    },
+    {
+      "id": 15,
+      "name": "Chicken",
+      "ingredients": ["Sauce", "Cheese", "Chicken"],
+      "unitPrice": 6,
+      "imageUrl": "pizzas/Recipe_Chicken.webp",
+      "soldOut": false
+    },
+    {
+      "id": 16,
+      "name": "Garlic",
+      "ingredients": ["Sauce", "Cheese", "Garlic"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Garlic.webp",
+      "soldOut": false
+    },
+    {
+      "id": 17,
+      "name": "Tomato",
+      "ingredients": ["Sauce", "Cheese", "Sliced Tomato"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Tomato.webp",
+      "soldOut": false
+    },
+    {
+      "id": 18,
+      "name": "Jalapeno",
+      "ingredients": ["Sauce", "Cheese", " Jalapeno"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Jalapeno.webp",
+      "soldOut": true
+    },
+    {
+      "id": 19,
+      "name": "Figs",
+      "ingredients": ["Sauce", "Cheese", "Fig"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Fig.webp",
+      "soldOut": false
+    },
+    {
+      "id": 20,
+      "name": "Zucchini",
+      "ingredients": ["Sauce", "Cheese", "Zucchini"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Zucchini.webp",
+      "soldOut": false
+    },
+    {
+      "id": 21,
+      "name": "Artichoke",
+      "ingredients": ["Sauce", "Cheese", "Artichoke"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Artichoke.webp",
+      "soldOut": false
+    },
+    {
+      "id": 22,
+      "name": "Avocado",
+      "ingredients": ["Sauce", "Cheese", "Avocado"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Avocado.webp",
+      "soldOut": false
+    },
+    {
+      "id": 23,
+      "name": "Truffle",
+      "ingredients": ["Sauce", "Cheese", "Truffle"],
+      "unitPrice": 15,
+      "imageUrl": "pizzas/Recipe_Truffle.webp",
+      "soldOut": false
+    },
+    {
+      "id": 24,
+      "name": "Pumpkin",
+      "ingredients": ["Sauce", "Cheese", "Pumpkin"],
+      "unitPrice": 5,
+      "imageUrl": "pizzas/Recipe_Pumpkin.webp",
+      "soldOut": false
+    },
+    {
+      "id": 25,
+      "name": "Bell Pepper",
+      "ingredients": ["Sauce", "Cheese", "Bell Pepper"],
+      "unitPrice": 4,
+      "imageUrl": "pizzas/Recipe_Bell-Pepper.webp",
+      "soldOut": false
+    },
+    {
+      "id": 26,
+      "name": "Classic Meat",
+      "ingredients": ["Sauce", "Cheese", "Pepperoni", "Sausage"],
+      "unitPrice": 7,
+      "imageUrl": "pizzas/Recipe_ClassicMeat.webp",
+      "soldOut": true
+    },
+    {
+      "id": 27,
+      "name": "Green Dream",
+      "ingredients": ["Sauce", "Cheese", "Bell Pepper", "Basil"],
+      "unitPrice": 5,
+      "imageUrl": "pizzas/Recipe_GreenDream.webp",
+      "soldOut": true
+    },
+    {
+      "id": 28,
+      "name": "Salty Sailor",
+      "ingredients": ["Sauce", "Cheese", "Olive", "Anchovy"],
+      "unitPrice": 5,
+      "imageUrl": "pizzas/Recipe_SaltySailor.webp",
+      "soldOut": false
+    },
+    {
+      "id": 29,
+      "name": "Stinky Pete",
+      "ingredients": ["Sauce", "Cheese", "Onion", "Anchovy"],
+      "unitPrice": 5,
+      "imageUrl": "pizzas/Recipe_FruityPig.webp",
+      "soldOut": false
+    },
+    {
+      "id": 30,
+      "name": "Meat Lovers",
+      "ingredients": [
+        "Sauce",
+        "Cheese",
+        "Pepperoni",
+        "Sausage",
+        "Bacon",
+
+        "Ham"
+      ],
+      "unitPrice": 20,
+      "imageUrl": "pizzas/Recipe_MeatLovers.webp",
+      "soldOut": false
+    },
+    {
+      "id": 31,
+      "name": "Fruity Pig",
+      "ingredients": [
+        "Sauce",
+        "Cheese",
+        "Pepperoni",
+        "Sausage",
+        "Olive",
+        "Bell Pepper",
+        "Bacon",
+        "Pineapple",
+        "Ham"
+      ],
+      "unitPrice": 5,
+      "imageUrl": "pizzas/Recipe_FruityPig.webp",
+      "soldOut": true
+    },
+    {
+      "id": 32,
+      "name": "Supreme",
+      "ingredients": [
+        "Sauce",
+        "Cheese",
+        "Pepperoni",
+        "Sausage",
+        "Mushroom",
+        "Olive",
+        "Onion",
+
+        "Bell Pepper"
+      ],
+      "unitPrice": 20,
+      "imageUrl": "pizzas/Recipe_Supreme.webp",
+      "soldOut": false
+    },
+    {
+      "id": 33,
+      "name": "Vegetarian",
+      "ingredients": [
+        "Sauce",
+        "Cheese",
+        "Mushroom",
+        "Olive",
+        "Onion",
+        "Bell Pepper",
+        "Pineapple",
+        "Basil",
+        "Eggplant",
+        "Corn",
+        "Garlic",
+        "Sliced Tomato",
+        "Jalapeno",
+        "Avocado",
+        "Truffle",
+        "Fig",
+        "Zucchini",
+        "Artichoke"
+      ],
+      "unitPrice": 19,
+      "imageUrl": "pizzas/Recipe_Vegetarian.webp",
+      "soldOut": false
+    },
+    {
+      "id": 34,
+      "name": "Vegan",
+      "ingredients": [
+        "Sauce",
+        "Mushroom",
+        "Olive",
+        "Onion",
+        "Bell Pepper",
+        "Pineapple",
+        "Basil",
+        "Eggplant",
+        "Corn",
+        "Garlic",
+        "Sliced Tomato",
+        "Jalapeno",
+        "Avocado",
+        "Truffle",
+        "Fig",
+        "Zucchini",
+        "Artichoke"
+      ],
+      "unitPrice": 18.5,
+      "imageUrl": "pizzas/Recipe_Vegan.webp",
+      "soldOut": false
+    }
+  ]
+}
