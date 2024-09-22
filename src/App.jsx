@@ -5,10 +5,12 @@ import Cart from "./features/cart/Cart";
 import Order from "./features/order/CreateOrder";
 import CreateOrder from "./features/order/CreateOrder";
 import AppLayout from "./ui/AppLayout";
+import Error from "./ui/Error";
 
 const router = createBrowserRouter([
   {
     element: <AppLayout />,
+    errorElement: <Error />,
     children: [
       {
         path: "/",
@@ -17,6 +19,9 @@ const router = createBrowserRouter([
       {
         path: "/menu",
         element: <Menu />,
+        // causes [menu] data to be fetched as it renders at the <same time> using useLoaderData()
+        loader: menuLoader, // async function
+        errorElement: <Error />,
       },
       {
         path: "/cart",
